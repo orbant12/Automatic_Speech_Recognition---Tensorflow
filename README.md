@@ -1,1 +1,2 @@
-![ASR Neaural Network (2)](https://github.com/orbant12/Automatic_Speech_Recognition-CNN/assets/124793231/69ac038b-2745-41af-8bd8-3fd621b0a4f4)
+
+![ASR Neaural Network (3)](https://github.com/orbant12/Automatic_Speech_Recognition-CNN/assets/124793231/36f08556-72cf-425c-b525-86df09e4b8ec)
